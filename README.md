@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @QiliKiri.
 - 👀 I want to be a software engineer.
+- 🌱 I'm familiar with Python.
 - 🌱 I’m currently learning Java.
 
 <!---
