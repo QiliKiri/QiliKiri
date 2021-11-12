@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @QiliKiri.
+- 👋 Hi, I’m @QiliKiri. I'm a second-year college student majoring in Financial Technology.
 - 👀 I want to be a software engineer.
-- 🌱 I'm familiar with Python.
-- 🌱 I’m currently learning Java.
+- 🌱 I'm familiar with Python and learning Java now.
+
 
 <!---
 QiliKiri/QiliKiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
