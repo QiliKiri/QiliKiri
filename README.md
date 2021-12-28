@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @QiliKiri. I'm a second-year college student majoring in Financial Technology.
-- 👀 I want to be a software engineer.
-- 🌱 I'm familiar with Python and learning Java and Kotlin now.
+- 👋 Hi, I’m @QiliKiri. I'm a second-year university student.
+- 👀 I want to be a software engineer.<br><br>
+### Skill:
+- Python
+- Java
+- Kotlin
 
 
 <!---
