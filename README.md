@@ -3,7 +3,8 @@
 ### Skill:
 - Python
 - Java
-- Kotlin
+- HTML & CSS
+- Javascript
 
 
 <!---
