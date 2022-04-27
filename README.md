@@ -5,7 +5,7 @@
 - Java
 - HTML & CSS
 - Javascript
-
+- React
 
 <!---
 QiliKiri/QiliKiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
