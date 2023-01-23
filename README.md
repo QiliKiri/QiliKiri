@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @QiliKiri. I'm a second-year university student.
+- 👋 Hi, I’m @QiliKiri. I'm a third-year university student.
 - 👀 I want to be a software engineer.<br><br>
 ### Skill:
 - Python
 - Java
 - HTML & CSS
 - Javascript
-- React
+- Vue 2
 
 <!---
 QiliKiri/QiliKiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
