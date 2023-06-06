@@ -1,12 +1,22 @@
 - 👋 Hi, I’m @QiliKiri.
-- 👀 I want to be a web developer.<br><br>
+<br><br>
 ### Skill:
-- Python
-- Java
-- HTML & CSS
-- Javascript
-- Vue 2
-- PHP
+<table border="0">
+  <tr>
+    <td display="flex">
+      <div>Python</div>
+      <div>Java</div>
+    </td>
+    <td>
+      <div>React</div>
+      <div>Vue 2</div>
+      <div>HTML & CSS</div>
+      <div>Javascript</div>
+      <div>PHP</div>
+    </td>
+  </tr>
+</table>
+
 
 <!---
 QiliKiri/QiliKiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
