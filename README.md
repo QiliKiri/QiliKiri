@@ -6,6 +6,7 @@
     <td display="flex">
       <div>Python</div>
       <div>Java</div>
+      <div>Dart</div>
     </td>
     <td>
       <div>React</div>
@@ -13,6 +14,7 @@
       <div>HTML & CSS</div>
       <div>Javascript</div>
       <div>PHP</div>
+      <div>Flutter</div>
     </td>
   </tr>
 </table>
